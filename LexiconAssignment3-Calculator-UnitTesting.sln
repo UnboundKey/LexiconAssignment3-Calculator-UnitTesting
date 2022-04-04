@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexiconAssignment3-Calculator-UnitTesting", "LexiconAssignment3-Calculator-UnitTesting\LexiconAssignment3-Calculator-UnitTesting.csproj", "{D3FF2FDE-6382-4917-A8BD-26E7C494EB62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexiconAssignment3-Calculator-UnitTesting.Tests", "LexiconAssignment3-Calculator-UnitTesting.Tests\LexiconAssignment3-Calculator-UnitTesting.Tests.csproj", "{12F6FF88-5A1F-4DB1-898F-3A3BE9EB28A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FF2FDE-6382-4917-A8BD-26E7C494EB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FF2FDE-6382-4917-A8BD-26E7C494EB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FF2FDE-6382-4917-A8BD-26E7C494EB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FF2FDE-6382-4917-A8BD-26E7C494EB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F6FF88-5A1F-4DB1-898F-3A3BE9EB28A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F6FF88-5A1F-4DB1-898F-3A3BE9EB28A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F6FF88-5A1F-4DB1-898F-3A3BE9EB28A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F6FF88-5A1F-4DB1-898F-3A3BE9EB28A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
